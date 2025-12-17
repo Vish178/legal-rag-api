@@ -1,0 +1,13 @@
+fastapi>=0.100.0
+uvicorn>=0.20.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pysqlite3-binary
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.10
+langchain-openai>=0.0.5
+langchain-huggingface>=0.0.1
+langchain-chroma>=0.1.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0

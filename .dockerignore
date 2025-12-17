@@ -1,0 +1,12 @@
+__pycache__
+Data
+Screenshots
+Dockerfile
+.dockerignore
+.env
+.git
+.gitignore
+app.py 
+builder.py
+evaluation.py
+README.md
